@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Engineer",
+    "company": "Amazon",
+    "skills": ["Python", "TensorFlow", "PyTorch", "MLOps", "AWS", "Docker"],
+    "experience": "2-4 years",
+    "description": "Build and deploy ML models at scale using AWS infrastructure."
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "company": "Google",
+    "skills": ["Python", "SQL", "Statistics", "Pandas", "Scikit-learn", "BigQuery"],
+    "experience": "1-3 years",
+    "description": "Analyze large datasets and build predictive models for product insights."
+  },
+  {
+    "id": 3,
+    "title": "GenAI / LLM Engineer",
+    "company": "OpenAI",
+    "skills": ["LangChain", "Python", "LLMs", "RAG", "Vector Databases", "Prompt Engineering"],
+    "experience": "1-3 years",
+    "description": "Design and build LLM-powered applications and pipelines."
+  },
+  {
+    "id": 4,
+    "title": "Backend Engineer",
+    "company": "Microsoft",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "Kubernetes", "REST APIs"],
+    "experience": "2-5 years",
+    "description": "Build scalable backend services and APIs for cloud products."
+  },
+  {
+    "id": 5,
+    "title": "NLP Engineer",
+    "company": "Meta",
+    "skills": ["Python", "NLP", "Transformers", "HuggingFace", "BERT", "Text Classification"],
+    "experience": "2-4 years",
+    "description": "Develop NLP models for content understanding and moderation."
+  },
+  {
+    "id": 6,
+    "title": "AI Research Engineer",
+    "company": "DeepMind",
+    "skills": ["Python", "PyTorch", "Research", "Mathematics", "Deep Learning", "Reinforcement Learning"],
+    "experience": "3-6 years",
+    "description": "Conduct cutting-edge AI research and implement novel architectures."
+  },
+  {
+    "id": 7,
+    "title": "Data Engineer",
+    "company": "Netflix",
+    "skills": ["Python", "Spark", "Kafka", "Airflow", "SQL", "ETL", "AWS"],
+    "experience": "2-4 years",
+    "description": "Build data pipelines and infrastructure for analytics at scale."
+  },
+  {
+    "id": 8,
+    "title": "Full Stack AI Developer",
+    "company": "Startup",
+    "skills": ["Python", "React", "FastAPI", "LangChain", "OpenAI API", "PostgreSQL"],
+    "experience": "1-3 years",
+    "description": "Build end-to-end AI-powered web applications."
+  }
+]
