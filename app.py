@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API = "http://localhost:8000"
+API = "https://ai-job-recomender-backend.onrender.com"
 
 st.set_page_config(page_title="AI Job Recommender", page_icon="💼", layout="wide")
 st.title("💼 AI Job Recommender")
