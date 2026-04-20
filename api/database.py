@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv("config.env")
 
-client = AsyncIOMotorClient(os.getenv("MONGODB_URI", "mongodb://localhost:27017"))
+client = AsyncIOMotorClient(os.getenv("mongodb+srv://akshatkulshrestha209_db_user:7hI94vQ2Ppy4D5A3@cluster0.wgzfzve.mongodb.net/?appName=Cluster0"))
 db = client["job_recommender"]
 
 users_col = db["users"]
